@@ -1,8 +1,10 @@
 ---
 title: "JS Sequence Diagrams"
-date: 2015-03-04T21:57:45+08:00
+date: 2017-03-04T21:57:45+08:00
 draft: false
-
+tags: ["example"]
+categories: ["example"]
+hiddenFromHomePage: true
 sequenceDiagrams: 
   enable: true
   options: "{theme: 'hand'}"
